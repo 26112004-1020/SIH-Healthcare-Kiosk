@@ -24,16 +24,16 @@ This project is developed for the Smart India Hackathon with the goal of improvi
 ```bash
 git clone https://github.com/yourusername/rural-healthcare-assistance.git
 cd rural-healthcare-assistance
+```
 
 ## Usage
-
 - *Configure Environment:* Ensure all dependencies are installed and the environment is correctly set up.
 - *Audio Processing:* Place the audio file in the specified directory and run the audio transcription module.
 - *Run Main Program:* Execute the main script to start the application.
 
 ```bash
 python whisper.ipynb
-
+```
 - Follow-up Consultations: The system supports follow-up consultations, making it easier for patients to continue their treatment.
 
 ## Acknowledgements
